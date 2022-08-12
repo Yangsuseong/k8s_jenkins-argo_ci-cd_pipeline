@@ -1,4 +1,4 @@
-* 사진이 포함된 설명은 PDF 파일 참고
+* 사진이 포함된 설명은 manual.pdf 파일 참고
 
 # K8s Jenkins&Argo CI/CD Pipeline 구축 
 [Kubernetes 위에 Jenkins 설치하기](https://cwal.tistory.com/20) 참고
