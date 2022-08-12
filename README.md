@@ -1,6 +1,8 @@
 # K8s Jenkins&Argo CI/CD Pipeline 구축 
 [Kubernetes 위에 Jenkins 설치하기](https://cwal.tistory.com/20) 참고
+
 argoCD - [ArgoCD: Kubernetes에 GitOps 적용하기](https://cwal.tistory.com/19) 참고
+
 kustomizer - https://cwal.tistory.com/22 참고
 
 [image:31720BDD-885C-4482-B51B-C98EC8717142-14520-0000054BC98B2A98/C489D3EB-DD2D-41AD-BB1E-D0B585975F4B.png]
