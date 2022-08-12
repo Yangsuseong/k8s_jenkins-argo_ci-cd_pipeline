@@ -1,0 +1,10 @@
+patchesStrategicMerge:
+- deployment-patch.yaml
+- service-patch.yaml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+- ../../base
+images:
+- name: tntjd5596/node-hello-world-test
+  newTag: "311"
